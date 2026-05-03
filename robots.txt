@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gigaj0ule.github.io/handbook-xfxisg/sitemap.xml
